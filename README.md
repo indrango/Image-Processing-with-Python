@@ -1,6 +1,6 @@
-# DSU - Image Processing with Python
+# Image Processing with Python
 
-In this repository contain several source code about DSU workshop.
+In this repository contain several source code about basic image processing with python.
 
 ## Installation
 
